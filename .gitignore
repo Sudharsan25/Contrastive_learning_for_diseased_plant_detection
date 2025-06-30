@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# venv
+ai-project-2/
+
 # Checkpoints
 ckpts/
 
